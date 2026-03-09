@@ -21,7 +21,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Node.
 - RabbitMQ.
 - Jenkins.
-- - AWS
+- AWS.
 - Linux.
 - Kubernetes.
 - CI/CD.
@@ -41,7 +41,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Java.
 - Spring Boot.
 - Docker.
-- Nginx
+- Nginx.
 - VueJs3.
 <br/>
 
